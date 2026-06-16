@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**AnVill17/AnVill17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/badge/IIT_(ISM)_DHANBAD-MnC-blue?style=for-the-badge" alt="Institute" />
+  <img src="https://img.shields.io/badge/AI_ENGINEERING-AGENTIC_AI-brightgreen?style=for-the-badge&logo=robot" alt="AI" />
+  <img src="https://img.shields.io/badge/FULL_STACK-DOCKER_&_MERN-blue?style=for-the-badge&logo=docker" alt="Backend" />
+  <img src="https://img.shields.io/badge/COMPETITIVE_CODING-SPECIALIST-red?style=for-the-badge&logo=cplusplus" alt="CP" />
+</div>
 
-Here are some ideas to get you started:
+### 📊 GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnVill17&show_icons=true&theme=radical&hide_border=true" alt="Anupam's GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnVill17&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnVill17&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
